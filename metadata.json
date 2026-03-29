@@ -1,0 +1,5 @@
+{
+  "name": "MedNotes AI",
+  "description": "A medical student app that uses a provided curriculum to systemically build notes on specific topics, extrapolating information from uploaded textbooks and internet sources.",
+  "requestFramePermissions": []
+}
